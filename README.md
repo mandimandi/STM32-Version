@@ -1,2 +1,1 @@
-# STM32-Version
-Y001
+STM32-Version
